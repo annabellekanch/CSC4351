@@ -23,5 +23,6 @@ The use of states:
 
 Error & end-of-file Handling:
     
-    We implemented err statements for if the user tries to input a comment in a comment or input a non ascii character to propperly handle those situations, %endofval checks to
-    see if there's a comment or string already inputted. We also check to see if the count for strings or comments is negative, if so we have reached the end of the file.
+    We implemented err statements for if the user tries to input a comment in a comment or input a non ascii character to propperly
+    handle those situations, %endofval checks tosee if there's a comment or string already inputted. We also check to see if the 
+    count for strings or comments is negative, if so we have reached the end of the file.
